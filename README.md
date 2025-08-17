@@ -36,7 +36,7 @@ The database models the real-world operations of a hospital, including **patient
 
 #ERD and Schema for a Hospital
 The SQL implementation of the hospital management system can be found in  
-[`schema.sql`](schema.sql).
+[`Hospital-Schema..sql`](Hospital-Schema..sql).
 
 ---
 
