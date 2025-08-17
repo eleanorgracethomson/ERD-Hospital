@@ -8,7 +8,7 @@ The database models the real-world operations of a hospital, including **patient
 
 ---
 
-## 🗂️ Entities & Relationships
+## Entities & Relationships
 - **Doctor** – Stores doctor details such as name, contact info, and salary.  
 - **Patient** – Stores patient demographics and insurance information.  
 - **Insurance** – Stores insurance provider details.  
@@ -29,7 +29,7 @@ The database models the real-world operations of a hospital, including **patient
 
 ---
 
-## 📊 ERD Diagram
+## ERD Diagram
 ![Hospital ERD](Hospital-Model.mwb)
 
 ---
